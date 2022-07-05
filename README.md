@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gst-br
 - 👀 I’m interested in finacial market and quantitative funds
-- 🌱 I’m currently learning bussines administration and python
+- 🌱 I’m currently learning bussines, r, python
 - 💞️ I’m looking to collaborate on derivatives projects 
 - 📫 How to reach me send me a text on twitter, or instagram or here ;)
 
